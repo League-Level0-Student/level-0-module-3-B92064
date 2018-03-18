@@ -21,7 +21,7 @@ else if(intcats < 3 && intcats > 0) {
 	playVideo("https://www.youtube.com/watch?v=5dsGWM5XGdg");
 }
 else if(intcats == 0) {
-	
+	playVideo("https://www.youtube.com/watch?v=ZJT9CeEhM10");
 }
 		// 4. If they have less than 3 cats AND more than 0 cats, call the method below to show them a cat video
 
